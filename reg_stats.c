@@ -4,7 +4,7 @@
 	   VERSION:	2.0 
 */
 
-#include "hw1.h"
+#include "reg_stats.h"
 
 int col_hdr = 0;
 char *name = NULL;

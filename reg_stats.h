@@ -1,5 +1,5 @@
-#ifndef HW1_H
-#define HW1_H
+#ifndef REG_STATS_H
+#define REG_STATS_H
 
 #include <stdbool.h>
 #include <ctype.h>
@@ -32,5 +32,5 @@ int instr_func(void);
 int registr_func(void);
 int opcode_func(void);
 
-#endif /* HW1.H */
+#endif /* REG_STATS.H */
 

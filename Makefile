@@ -9,7 +9,7 @@ BINS = mstat
 all: $(BINS)
 
 mstat: 
-	gcc $(CFLAGS) hw1.c -o $@
+	gcc $(CFLAGS) reg_stats.c -o $@
 
 clean:
 	rm -f *.o $(BINS)
